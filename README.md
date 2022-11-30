@@ -17,3 +17,9 @@ Diabetes is one of the most common, incurable diseases in the world. This study 
 [Project 4 :Covid Vaccination Progress using Plotly](https://github.com/AdminGirl/Data-Visualization-Projects/blob/main/Covid_Vaccination_Progress_using_Plotly_%28Data_Visualization_Project%29.ipynb)
 
 The goal of this project is to illustrate the global Covid-19 vaccines advancement.
+
+
+[Project 5 : BD_Crime Map using_Folium
+Plotly](https://github.com/AdminGirl/Data-Visualization-Projects/blob/main/BD_Crime_Map_using_Folium.ipynb)
+
+The project's objective is to highlight the crime that takes place in Bangladesh's many areas.
