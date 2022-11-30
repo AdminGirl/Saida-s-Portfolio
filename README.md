@@ -7,3 +7,8 @@ Using machine learning algorithms like Random Forest, Decision Tree, and Logisti
 [Project 2 : Mental Health(Exploratory Data Analysis)](https://github.com/AdminGirl/Mental-Health-Exploratory-Data-Analysis-/blob/main/Mental_Health(Exploratory_Data_Analysis).ipynb)
 
 Exploratory data analysis (EDA) is used in this investigation to explore and examine relationships among the many variables in the depression data set utilizing statistics and visualizations.
+
+
+[Project 3 :Diabetes Malady Prediction using Data Mining Algorithms](https://github.com/AdminGirl/Data-Science-Project/blob/feature/controller/diabetecs.ipynb)
+
+Diabetes is one of the most common, incurable diseases in the world. This study is being done to predict diabetes diseases. This study used the algorithms Random Forest, Decision Tree, Extra Trees, XGboost, and Bagging.
