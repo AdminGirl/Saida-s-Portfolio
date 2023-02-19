@@ -26,7 +26,7 @@ The project's objective is to highlight the crime that takes place in Bangladesh
 
 
 
-[Project 6 : House_Price_Prediction_using_Regression](https://github.com/AdminGirl/Saida-s-project/blob/main/House_Price_Prediction_using_Regression.ipynb)
+[Project 6 : House Price Prediction using Regression](https://github.com/AdminGirl/Saida-s-project/blob/main/House_Price_Prediction_using_Regression.ipynb)
 
 Using machine learning regression algorithms like Linera Regression,Polynomial Features, I conducted this project to determine the house price.
 
