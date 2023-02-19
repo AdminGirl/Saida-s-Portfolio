@@ -23,3 +23,9 @@ The goal of this project is to illustrate the global Covid-19 vaccines advanceme
 Plotly](https://github.com/AdminGirl/Data-Visualization-Projects/blob/main/BD_Crime_Map_using_Folium.ipynb)
 
 The project's objective is to highlight the crime that takes place in Bangladesh's many areas.
+
+
+
+[Project 6 : House_Price_Prediction_using_Regression](https://github.com/AdminGirl/Saida-s-project/blob/main/House_Price_Prediction_using_Regression.ipynb)
+
+Using machine learning regression algorithms like Linera Regression,Polynomial Features, I conducted this project to determine the house price.
