@@ -33,4 +33,4 @@ Using machine learning regression algorithms like Linera Regression,Polynomial F
 
 [Project 7 : GPA Clustering using k-means Algorithm](https://github.com/AdminGirl/Saida-s-project/blob/main/GPA_Clustering_using_k_means.ipynb)
 
-This project is developed to cluster the students based on their study hours and gpa by using K-means clustering algorithm.
+This project is developed to cluster the students based on their study hours & gpa by using K-means clustering algorithm.
