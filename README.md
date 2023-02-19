@@ -30,7 +30,6 @@ The project's objective is to highlight the crime that takes place in Bangladesh
 
 Using machine learning regression algorithms like Linera Regression,Polynomial Features, I conducted this project to determine the house price.
 
-
 [Project 7 : GPA Clustering using k-means Algorithm](https://github.com/AdminGirl/Saida-s-project/blob/main/GPA_Clustering_using_k_means.ipynb)
 
 This project is developed to cluster the students based on their study hours & gpa by using K-means clustering algorithm.
